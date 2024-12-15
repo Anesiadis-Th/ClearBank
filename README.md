@@ -26,3 +26,6 @@ Username: **jd** | Pin: **2222**
 
 In order to trasnsfer money simply enter the username of the account ( **ta** or **js**) and the amount.
 To close the account enter the username and the pin. 
+
+# Usage
+A live web page of this project can be found [here](https://anesiadis-th.github.io/ClearBank/).
