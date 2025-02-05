@@ -1,5 +1,4 @@
 # ClearBank
-**Overview**
 
 ClearBank is a simple banking app that allows users to log in, view their balance and transaction history, make transfers, apply for loans, and close accounts. It uses basic front-end JavaScript to manage account data, user interactions, and UI updates.
 
